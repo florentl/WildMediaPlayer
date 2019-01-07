@@ -1,4 +1,4 @@
-package fr.wildcodeschool.mediaplayer.player.manager;
+package wcs.com.manager;
 
 public interface WildAudioManagerListener {
   void audioFocusGain(boolean isGain);
